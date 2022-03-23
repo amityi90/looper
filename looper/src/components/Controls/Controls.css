@@ -1,0 +1,35 @@
+.controls {
+    margin: 20px 0 40px;
+    display: flex;
+}
+
+.controls__button {
+    display: flex;
+    margin: 0 20px 0;
+    border-radius: 100px;
+    border: none;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    cursor: pointer;
+}
+
+.controls__button:hover {
+    background-color: rgb(19, 18, 18);
+}
+
+.controls__symbol {
+    width: 30px;
+    height: 30px;
+    color: white;
+}
+
+.controls__button_on {
+    background-color: rgb(138, 140, 143);
+}
+
+.controls__button_on:hover {
+    background-color: rgb(138, 140, 143);
+}

@@ -1,0 +1,42 @@
+.page {
+  background-color: #1c1d1f;
+}
+
+.app {
+  font-family: Roboto slab, sans-serif;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #1c1d1f;
+  align-items: center;
+  justify-content: center;
+}
+
+.app__traks-list {
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  margin: 30px 0 0;
+}
+
+.app__progress-bar {
+  align-self: flex-start;
+  margin: 0  0 20px 240px;
+}
+
+.app__title {
+  margin: 20px 0 10px;
+  color: white;
+  font-size: 50px;
+  letter-spacing: 10px;
+  word-spacing: 20px;
+}
+
+.app__description {
+  color: white;
+  font-size: 12px;
+}
+
+
+
+
