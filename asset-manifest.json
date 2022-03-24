@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/looper/static/css/main.628145d6.css",
+    "main.js": "/looper/static/js/main.6a395e9c.js",
+    "static/js/787.2d101da8.chunk.js": "/looper/static/js/787.2d101da8.chunk.js",
+    "static/media/ALL TRACK.mp3": "/looper/static/media/ALL TRACK.0fa4445ea8455a4babf4.mp3",
+    "static/media/B VOC.mp3": "/looper/static/media/B VOC.5ffa9906c5972f1fb03c.mp3",
+    "static/media/DRUMS.mp3": "/looper/static/media/DRUMS.f0332952662d2e1f5d15.mp3",
+    "static/media/HE HE VOC.mp3": "/looper/static/media/HE HE VOC.fd659059c1d55320658f.mp3",
+    "static/media/HIGH VOC.mp3": "/looper/static/media/HIGH VOC.f09f6e03383b234370d0.mp3",
+    "static/media/JIBRISH.mp3": "/looper/static/media/JIBRISH.d23f0b604ef55163d7e6.mp3",
+    "static/media/LEAD 1.mp3": "/looper/static/media/LEAD 1.f8658c330b3d07661550.mp3",
+    "static/media/_tambourine_shake_higher.mp3": "/looper/static/media/_tambourine_shake_higher.2ceb47bfdbea6e81aae9.mp3",
+    "static/media/roboto-slab-400-regular.woff": "/looper/static/media/roboto-slab-400-regular.b46b2661355d7b1e9e9e.woff",
+    "static/media/roboto-400-regular.woff": "/looper/static/media/roboto-400-regular.49ae34d4cc6b98c00c69.woff",
+    "index.html": "/looper/index.html",
+    "main.628145d6.css.map": "/looper/static/css/main.628145d6.css.map",
+    "main.6a395e9c.js.map": "/looper/static/js/main.6a395e9c.js.map",
+    "787.2d101da8.chunk.js.map": "/looper/static/js/787.2d101da8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.628145d6.css",
+    "static/js/main.6a395e9c.js"
+  ]
+}
