@@ -30,11 +30,9 @@ const AudioPlayer = forwardRef((props, ref) => {
     // visualisation of track while playing
 
     const whilePlaying = useCallback(() => {
-        // if (props.loop.current.loop) {
             if (props.loop.current.loop && audioPlayer.current.currentTime > (audioPlayer.current.duration - 0.15)) {
                 audioPlayer.current.currentTime = 0;
             }
-        // }
         progressBar.current.value = audioPlayer.current.currentTime;
         setCurrentTime(progressBar.current.value);
         animationRef.current = requestAnimationFrame(whilePlaying);
